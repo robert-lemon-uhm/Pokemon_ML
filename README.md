@@ -21,7 +21,7 @@ Each model was evaluated based on its accuracy and AUROC score. While the best m
 stats and their typing. 
 
 | Model         | Accuracy | AUROC   |
-| ------------- | -------- | ------- |
+| ------------- | :--------: | :--------: |
 | Decision Tree | 0.1200   | 0.5533  |
 | Random Forest | 0.1955   | 0.6561  |
 | KNN           | 0.2133   | 0.6741  |
